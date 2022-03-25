@@ -1,4 +1,3 @@
-import { FaTimes } from "react-icons/fa";
 import { useContext } from "react";
 import FeedbackItem from "./FeedbackItem";
 import FeedbackContext from "../context/FeedbackContext";

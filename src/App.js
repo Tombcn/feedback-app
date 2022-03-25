@@ -21,6 +21,7 @@ function App() {
                   <FeedbackForm />
                   <FeedbackStats />
                   <FeedbackList />
+                  
                 </>
               }
             ></Route>
