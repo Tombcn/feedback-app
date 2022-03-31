@@ -20,10 +20,7 @@ function FeedbackItem({item}) {
     </Card>
   )
 
-  Card.propTypes = {
-    children: PropTypes.node.isRequired,
-    reverse: PropTypes.bool,
-  }
+  
   
 }
 
